@@ -8,7 +8,6 @@ import "../../assets/styles/containers/article.scss"
 
 function Block() {
 
-  
   return (
     <div className="lsn-block">
       <section className="lsn-section">
