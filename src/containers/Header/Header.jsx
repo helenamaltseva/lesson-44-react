@@ -10,9 +10,11 @@ function Header() {
   
   return (
     <header className="lsn-header">
-      <button className="lsn-button-yellow"></button>
+      <div className="lsn-button">
+        <button className="lsn-button-yellow"></button>
+      </div>
       <p className="lsn-header__text">Blog name</p>
-      <div className="lsn-button-block">
+      <div className="lsn-button">
         <button className="lsn-button-green"></button>
         <button className="lsn-button-green"></button>
         <button className="lsn-button-green"></button>

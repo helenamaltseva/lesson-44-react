@@ -1,6 +1,6 @@
 import "../../assets/styles/elements/button.scss"
 
-function ButtonBlue() {
+function ButtonDlue() {
 
   
     return (

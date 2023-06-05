@@ -4,10 +4,6 @@ import Footer from "./containers/Footer";
 import Block from "./containers/Block";
 
 
-//elements
-// import ButtonOne from "./elements/ButtonOne";
-
-
 function App() {
   
   

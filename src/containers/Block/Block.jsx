@@ -2,8 +2,6 @@ import React from "react";
 
 // assets
 import "../../assets/styles/containers/block.scss"
-import "../../assets/styles/containers/section.scss"
-import "../../assets/styles/containers/article.scss"
 
 
 function Block() {
@@ -12,7 +10,7 @@ function Block() {
     <div className="lsn-block">
       <section className="lsn-section">
         <p className="lsn-section__text">Blog</p>
-        <div>
+        <div className="lsn-button">
           <button className="lsn-button-pink"></button>
           <button className="lsn-button-pink"></button>
           <button className="lsn-button-pink"></button>
